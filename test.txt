@@ -1,2 +1,4 @@
 lorem ipsum dolor sit amet
 updated
+
+this is a new line on line #4
