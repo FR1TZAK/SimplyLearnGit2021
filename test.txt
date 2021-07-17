@@ -1,4 +1,2 @@
 lorem ipsum dolor sit amet
 updated
-
-this is a merge on line #4 of the remote and local commit
