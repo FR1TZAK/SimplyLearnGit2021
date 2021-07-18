@@ -2,4 +2,4 @@ lorem ipsum dolor sit amet
 updated
 
 
-TEST MERGE CONFLICT line #5 locally
+TEST MERGE CONFLICT resolved line #5 local + remote merge
