@@ -3,3 +3,6 @@ updated
 
 
 TEST MERGE CONFLICT resolved line #5 local + remote merge
+
+
+new line
